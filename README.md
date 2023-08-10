@@ -8,6 +8,7 @@ The objective of the game is to guess the correct number in as few guesses as po
 The game can be made more challenging by increasing the number of possible numbers, or by limiting the number of guesses that the player has. The game can also be made more fun by adding different elements, such as a timer or a scoring system.
 
 Here are some of the benefits of playing a number guessing game:
+
 -It can improve your problem-solving skills.
 
 -It can help you develop your logic and critical thinking skills.
