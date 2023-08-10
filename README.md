@@ -9,8 +9,11 @@ The game can be made more challenging by increasing the number of possible numbe
 
 Here are some of the benefits of playing a number guessing game:
 -It can improve your problem-solving skills.
+
 -It can help you develop your logic and critical thinking skills.
+
 -It can teach you how to deal with uncertainty and risk.
+
 -It can be a fun and challenging way to pass the time.
 
 If you are looking for a fun and challenging game to play, I recommend trying a number guessing game. It is a great way to improve your problem-solving skills and have some fun at the same time.
