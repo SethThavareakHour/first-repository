@@ -24,23 +24,24 @@ Here are some of the benefits of playing a number guessing game:
 
 If you are looking for a fun and challenging game to play, I recommend trying a number guessing game. It is a great way to improve your problem-solving skills and have some fun at the same time.
 
+
 Example :
 
 This is a simple number guessing game that is played between the user and the computer. The computer generates a random number between 1 and 100, and the user tries to guess the number. The user is given a limited number of guesses, and if they can guess the number within the allotted number of guesses, they win the game.
 
 How to play :
 
--Run the code by typing python number_guessing_game.py in your terminal.
+1/Run the code by typing python number_guessing_game.py in your terminal.
 
--The computer will generate a random number between 1 and 100.
+2/The computer will generate a random number between 1 and 100.
 
--You will be prompted to guess a number.
+3/You will be prompted to guess a number.
 
--Enter your guess and press enter.
+4/Enter your guess and press enter.
 
--The computer will tell you if your guess is too high, too low, or correct.
+5/The computer will tell you if your guess is too high, too low, or correct.
 
--Continue guessing until you guess the correct number or you run out of guesses.
+6/Continue guessing until you guess the correct number or you run out of guesses.
 
--If you guess the correct number within the allotted number of guesses, you win the game!
+7/If you guess the correct number within the allotted number of guesses, you win the game!
 Dependencies
