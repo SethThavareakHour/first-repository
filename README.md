@@ -29,7 +29,7 @@ If you are looking for a fun and challenging game to play, I recommend trying a 
 
 Example :
 
-This is a simple number guessing game that is played between the user and the computer. The computer generates a random number between 1 and 100, and the user tries to guess the number. The user is given a limited number of guesses, and if they can guess the number within the allotted number of guesses, they win the game.
+This is a simple number guessing game that is played between the user and the computer. The computer generates a random number between 1 and 100, and the user tries to guess the number. The user is given a unlimited number of guesses, and if they can guess the number, they win the game.
 
 How to play :
 
