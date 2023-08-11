@@ -33,7 +33,7 @@ This is a simple number guessing game that is played between the user and the co
 
 How to play :
 
-1/Run the code by typing python number_guessing_game.py in your terminal.
+1/Run the code by typing python Number Guessing game.py in your terminal.
 
 2/The computer will generate a random number between 1 and 100.
 
